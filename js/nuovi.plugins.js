@@ -165,11 +165,11 @@
 						tagName: 'living',
 						limit: 5,
 						get: 'user',
-						userId: 648355,
-						accessToken: '648355.7e70bd0.4f91b3735bd34157ba112f56edffcb26',
+						userId: 2869726471,
+						accessToken: '2869726471.b8d5acd.d4a6c69f1caa464397884c5e9a629193',
 						resolution: 'standard_resolution',
-						clientId: '7e70bd0c50b44b60b3dd0ae869d18c40',
-						template: '<div class="nv-col"><div class="nv-instafeed-item"><a class="fancybox nv-lightbox" rel="instagram" href="{{image}}" title="{{location}}"><img src="{{image}}" /></a></div></div>',
+						clientId: 'b8d5acd2a03f4cb5a47c6415069ea673',
+						template: '<div class="nv-col"><div class="nv-instafeed-item"><a class="fancybox nv-lightbox" rel="instagram" href="{{link}" title="{{location}}"><img src="{{image}}" /></a></div></div>',
 						after: function(){
 							$('#' + this.options.target).find('.fancybox').fancybox();
 						}
