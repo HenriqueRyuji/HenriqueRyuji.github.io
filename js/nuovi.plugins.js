@@ -167,9 +167,8 @@
 						get: 'user',
 
 						userId: 2869726471,
-						accessToken: '2869726471.b8d5acd.25785fb5d9194c44857e3ff6614ba51e',
 						resolution: 'standard_resolution',
-						clientId: 'b8d5acd2a03f4cb5a47c6415069ea673',
+                    clientId: '7e70bd0c50b44b60b3dd0ae869d18c40',
 						template: '<div class="nv-col"><div class="nv-instafeed-item"><a class="fancybox nv-lightbox" rel="instagram" href="{{image}}" title="{{location}}"><img src="{{image}}" /></a></div></div>',
 
 						after: function(){
